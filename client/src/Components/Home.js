@@ -91,7 +91,7 @@ const Home = () => {
             <img src="/images/platelinker.gif" alt="gif" className='rounded-xl h-[400px] m-3 w-[400px]' />
           </div>
           <div className="services">
-            <img src="/images/services.jpg" alt="img" className='h-[400px]' />
+            <img src="./public/images/services.jpg" alt="img" className='h-[400px]' />
           </div>
         </div>
       </div>

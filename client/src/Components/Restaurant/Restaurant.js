@@ -54,7 +54,7 @@ const Restaurant = () => {
             </div>
         </div>
         <div className='w-[420px]'>
-          <img src="/images/restro.jpg" alt="restro img" className='rounded-xl' />
+          <img src=".public//images/restro.jpg" alt="restro img" className='rounded-xl' />
         </div>
         </div>
       {!localStorage.getItem("restroAuthToken") &&

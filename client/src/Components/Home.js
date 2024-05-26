@@ -20,7 +20,7 @@ const VideoComponent = () => {
 
   return (
     <div className='w-[600px] h-[400px]'>
-      <video ref={videoRef} src='/images/video.mp4' loop muted playsInline autoPlay>
+      <video ref={videoRef} src='./public/images/video.mp4' loop muted playsInline autoPlay>
         Your browser does not support the video tag.
       </video>
     </div>
